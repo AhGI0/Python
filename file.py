@@ -1,1 +1,2 @@
-print('hello my ahmed\'A')
+name = "ahmed "  
+print(name * 3  )
